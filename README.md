@@ -1,12 +1,13 @@
 # SampleImagePicker
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at18.51.54.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at19.03.45.png)
 ![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at18.36.01.png)
 ![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at18.52.04.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at19.03.59.png)
 
 
-SampleImagePicker is an iOS sample application that launches an image picker, alert message.
+SampleImagePicker is an iOS sample application that launches an image picker, alert message and activity.
 The purpose of the project is to learn mobile development for iOS using swift.
 The application is based on [UIKit Fundamentals](https://www.udacity.com/course/uikit-fundamentals--ud788) course.
 

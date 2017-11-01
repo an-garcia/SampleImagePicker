@@ -34,6 +34,14 @@
                                     <action selector="experimentAlert:" destination="BYZ-38-t0r" eventType="touchUpInside" id="OSS-AV-dYY"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QHf-ue-Eua">
+                                <rect key="frame" x="103" y="235" width="101" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Activity"/>
+                                <connections>
+                                    <action selector="experimentActivity:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GDs-2h-WFJ"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
