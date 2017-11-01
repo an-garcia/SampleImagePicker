@@ -1,7 +1,8 @@
 # SampleImagePicker
 
 
-![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-10-31at16.09.49x.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at18.36.41.png)
+![Scheme](/screenshots/SimulatorScreenShot-iPhone8Plus-2017-11-01at18.36.01.png)
 
 
 SampleImagePicker is an iOS sample application that launches an image picker.

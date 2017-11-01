@@ -19,7 +19,12 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+    
+    
+    @IBAction func experiment(){
+        let nextController = UIImagePickerController()
+        self.present(nextController, animated: true, completion: nil)
+    }
 
 }
 
